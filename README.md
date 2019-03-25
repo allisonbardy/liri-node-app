@@ -4,15 +4,15 @@ Command line node app in which user sends requests using the axios package to th
 
 ## Commands to Run
 
-node liri.js spotify-this-song "input track name"
-Received Data:
+node liri.js spotify-this-song "input track name" <br />
+Received Data: <br />
 1. Preview URL
 2. Track name
 3. Artist
 4. Album
 
-node liri.js movie-this "input movie name"
-Received Data:
+node liri.js movie-this "input movie name" <br />
+Received Data: <br />
 1. Movie title
 2. Year released
 3. Actors in the film
@@ -21,14 +21,14 @@ Received Data:
 6. Language
 7. Plot
 
-node liri.js concert-this "input artist name"
-Received Data:
+node liri.js concert-this "input artist name" <br />
+Received Data: <br />
 1. Venue name
 2. Venue location (city, country)
 3. Event date
 
-node liri.js do-what-it-says
-Received Data:
+node liri.js do-what-it-says <br />
+Received Data: <br />
 1. Retreives data from random text file
 2. Uses this data to send request with spotify API
 
