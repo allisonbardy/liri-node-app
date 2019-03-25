@@ -2,6 +2,9 @@
 
 Command line node app in which user sends requests using the axios package to the Bands in Town, Spotify and OMDB APIs and retrieves the data.
 
+##Installation
+Enter "npm install" in command line to download packages 
+
 ## Commands to Run
 
 node liri.js spotify-this-song "input track name" <br /><br />
