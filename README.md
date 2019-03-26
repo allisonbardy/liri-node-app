@@ -2,7 +2,7 @@
 
 Command line node app in which user sends requests using the axios package to the Bands in Town, Spotify and OMDB APIs and retrieves the data.
 
-##Installation
+## Installation
 Enter "npm install" in command line to download packages 
 
 ## Commands to Run
